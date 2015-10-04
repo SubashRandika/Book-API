@@ -5,17 +5,17 @@ CRUD operations with Mongo DB backend.
 
 ## Technologies
 
-Node JS
-Express
-Mongo DB
-Gulp task runner with
-    mocha
-    sinon
-    should
-Supertest for integration test
+- Node JS
+- Express
+- Mongo DB
+- Gulp task runner with
+    ~ mocha
+    ~ sinon
+    ~ should
+- Supertest for integration test
 
 ## Testing
 
-Unit Tested using Gulp
-Integration test using Supertest
-API tested using
+- Unit Tested using Gulp
+- Integration test using Supertest
+- API tested using Postman REST client
